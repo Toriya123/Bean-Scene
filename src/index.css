@@ -1,0 +1,31 @@
+@import "tailwindcss";
+
+@layer utilities {
+  .font-script {
+    font-family: 'Clicker Script', cursive;
+  }
+  .font-cursive {
+    font-family: 'Dancing Script', cursive;
+  }
+  .font-serif-heading {
+    font-family: 'Playfair Display', Georgia, serif;
+  }
+  .font-sans-body {
+    font-family: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+  }
+}
+
+/* Custom scrollbar and smooth transitions */
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #201205;
+}
+::-webkit-scrollbar-thumb {
+  background: #F9C06A;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #e8a946;
+}

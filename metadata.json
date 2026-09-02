@@ -1,0 +1,6 @@
+{
+  "name": "Bean Scene - Premium Coffee",
+  "description": "Interactive artisanal coffee landing page with menu, custom ordering, customer testimonials, and newsletter subscription.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
